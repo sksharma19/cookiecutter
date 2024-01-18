@@ -1,1 +1,1 @@
-print('hello '+{{cookiecutter.name}})
+print('hello {{cookiecutter.name}}')
